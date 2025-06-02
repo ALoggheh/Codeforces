@@ -1,1 +1,1 @@
-This reporisty is where I store my solutions for Codeforces contests.
+My Codeforces profile: https://codeforces.com/profile/Long_Nhong
